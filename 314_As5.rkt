@@ -1,4 +1,6 @@
-;;Goktay Back to Racket
+
+;;Group Work
+;; Ozan Orfa, Göktay Böcek
 
 #lang plai-typed
 
