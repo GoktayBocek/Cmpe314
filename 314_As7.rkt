@@ -1,5 +1,6 @@
-;;Goktay Bocek Project07
-;;               Racket
+;;Group Work
+;; Ozan Orfa, Göktay Böcek
+
 
 #lang plai-typed
 
